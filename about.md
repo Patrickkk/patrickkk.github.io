@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Im a .net software developer from the Netherlands!
 
-### More Information
+### Blog
 
-A place to include any other types of information that you'd like to include about yourself.
+I started this blog as a way to share solutions to struggles I encountered and to share my thoughts.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+you can contact me on Github.
