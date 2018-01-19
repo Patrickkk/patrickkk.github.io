@@ -12,4 +12,4 @@ I started this blog as a way to share solutions to struggles I encountered and t
 
 ### Contact me
 
-you can contact me on Github.
+You can contact me on Github. An email will be made available later.
