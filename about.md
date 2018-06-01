@@ -8,8 +8,8 @@ Im a .net software developer from the Netherlands!
 
 ### Blog
 
-I started this blog as a way to share solutions to struggles I encountered and to share my thoughts.
+I started this blog as a way to share solutions to issues I encountered and to share my thoughts.
 
 ### Contact me
 
-You can contact me on Github. An email will be made available later.
+You can contact me on Github.
